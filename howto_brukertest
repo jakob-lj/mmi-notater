@@ -1,0 +1,19 @@
+Fortell om hvem "vi" /appen) er
+
+Gi litt føringer til brukeren
+
+Oppgaven burde være tydelig på papir så det kan leses
+
+Etter brukertester er det vanlig å ha spørreskjema
+	Riktignok ikke påkrevd
+
+Ikke:
+	"lat som du er ...."
+	Fordi: Da blir ikke brukertesten så valid
+		Får ikke testa funksjonalitetne hvis brukeren må late som de er en annen enn de er
+
+		mange som passer bedre
+
+Test funksjoner kun på en brukergruppe som passer det appen er designet for å løse
+
+
